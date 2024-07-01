@@ -18,4 +18,4 @@ Modify config.php file
 $con = mysqli_connect("server_name","user_name","password","Database_name");
 Import the Database in Your Server like Xampp
 
-Database Name -: 
+Database Name - project_d1; 
